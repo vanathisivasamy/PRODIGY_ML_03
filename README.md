@@ -9,8 +9,6 @@ The dataset used for training and testing the SVM model is sourced from Kaggle. 
 
 **Kaggle Dataset Link:** https://www.kaggle.com/c/dogs-vs-cats/data
 
-Please download the dataset and place it in the `data/` directory before running the code.
-
 ## Model Used
 We have implemented a Support Vector Machine (SVM) for image classification. SVMs are powerful classifiers that work well for both linear and non-linear data. In this case, the SVM will be trained to learn the patterns and features that distinguish cats from dogs in the provided images.
 
